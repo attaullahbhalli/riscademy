@@ -1,5 +1,13 @@
 # RISCademy  
 
+**Main Landing Page:**
+
+<img src="demo/landingPage.png" alt="Avatar" width="700"/>
+
+**"My Account" page:**
+
+<img src="demo/accountPage.png" alt="Avatar" width="700"/>
+
 RISCademy is an interactive learning platform designed to help students learn **RISC-V assembly** in a structured, engaging, and accessible way.  
 
 This project was developed as a **first-year university group project** at the **University of Manchester**, inspired by the lack of comprehensive online resources for RISC-V assembly — a powerful yet niche instruction set architecture.  
